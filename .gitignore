@@ -1,2 +1,12 @@
-node_modules/
-custom_modules/connection-string.js
+###### Jin ########
+
+post-login-lambda/node_modules/
+post-login-lambda/custom_modules/connString.js
+
+post-register-lambda/mode_modules/
+post-register-lambda/custom_modules/connString.js
+
+
+
+
+
